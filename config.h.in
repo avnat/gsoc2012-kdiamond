@@ -1,0 +1,8 @@
+#ifndef VERSION_CONFIG_H
+#define VERSION_CONFIG_H
+
+// define your version_libinterface
+#define BUILD_QML @BUILD_QML@
+#define kdiamond_CONFIG_DIR @kdiamond_CONFIG_DIR@
+
+#endif // VERSION_CONFIG_H

@@ -1,0 +1,5 @@
+File=kdiamond.kcfg
+ClassName=Settings
+Singleton=true
+Mutators=true
+DefaultValueGetters=Theme

@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>declarative/Board.qml</file>
+        <file>declarative/Button.qml</file>
+        <file>declarative/main.qml</file>
+        <file>declarative/Listdialog.qml</file>
+        <file>declarative/LeftPanel.qml</file>
+        <file>declarative/RightPanel.qml</file>
+        <file>declarative/PopUp.qml</file>
+        <file>declarative/Themedialog.qml</file>
+        <file>declarative/images/diamonds.png</file>
+        <file>declarative/images/egyptian_preview.png</file>
+        <file>declarative/images/funny_zoo.png</file>
+        <file>declarative/Quitdialog.qml</file>
+        <file>declarative/images/diamonds/1.png</file>
+        <file>declarative/images/diamonds/2.png</file>
+        <file>declarative/images/diamonds/3.png</file>
+        <file>declarative/images/diamonds/4.png</file>
+        <file>declarative/images/diamonds/5.png</file>
+        <file>declarative/images/diamonds/6.png</file>
+        <file>declarative/images/diamonds/7.png</file>
+        <file>declarative/images/diamonds/diamond_bg.png</file>
+        <file>declarative/images/egyptian/1.png</file>
+        <file>declarative/images/egyptian/2.png</file>
+        <file>declarative/images/egyptian/3.png</file>
+        <file>declarative/images/egyptian/4.png</file>
+        <file>declarative/images/egyptian/5.png</file>
+        <file>declarative/images/egyptian/6.png</file>
+        <file>declarative/images/egyptian/7.png</file>
+        <file>declarative/images/egyptian/egyptian_bg.png</file>
+        <file>declarative/images/zoo/1.png</file>
+        <file>declarative/images/zoo/2.png</file>
+        <file>declarative/images/zoo/3.png</file>
+        <file>declarative/images/zoo/4.png</file>
+        <file>declarative/images/zoo/5.png</file>
+        <file>declarative/images/zoo/6.png</file>
+        <file>declarative/images/zoo/7.png</file>
+        <file>declarative/images/zoo/zoo_bg.png</file>
+        <file>declarative/AboutDialog.qml</file>
+    </qresource>
+</RCC>
